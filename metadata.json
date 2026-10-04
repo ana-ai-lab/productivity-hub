@@ -1,0 +1,6 @@
+{
+  "name": "Productivity Hub",
+  "description": "Job search Kanban, General Study & Certifications planner with Gemini AI, English study module, and Google Calendar & Tasks integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
